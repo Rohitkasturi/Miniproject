@@ -1,2 +1,1 @@
-# Miniproject
-Cyber bullying detection
+CYBER BULLYING DETECTION USING MACHINE LEARNING
